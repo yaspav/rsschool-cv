@@ -16,3 +16,11 @@ I'm a fearless full stack web developer.
 - **front-end:**
   - HTML/CSS;
   - Javascript, VueJS, JQuery.
+
+## Code examples
+
+*Information will be added later.*
+
+## Experience
+
+*Information will be added later.*
