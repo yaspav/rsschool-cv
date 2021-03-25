@@ -1,0 +1,1 @@
+[https://yaspav.github.io/rsschool-cv/cv]
