@@ -24,3 +24,13 @@ I'm a fearless full stack web developer.
 ## Experience
 
 *Information will be added later.*
+
+## Education
+
+*Information will be added later.*
+
+## English
+
+- speaking: **A2**
+- writing: **A2**
+- reading: **B1**
